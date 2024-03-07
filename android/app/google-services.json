@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "304128984508",
+    "project_id": "ehrspro",
+    "storage_bucket": "ehrspro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304128984508:android:676df224d53caa6bf197b9",
+        "android_client_info": {
+          "package_name": "com.example.healthy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuogX1niyjArQX_7GlHBZZv2S27PHtDEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
